@@ -14,6 +14,7 @@ export class PostFormComponent implements OnInit {
 
   title = ""
   text = ""
+  
   constructor() { }
 
   ngOnInit() {
